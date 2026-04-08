@@ -1,0 +1,15 @@
+{
+  "name": "download-10xgenomics-datasets",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^6"
+  },
+  "dependencies": {
+    "playwright": "^1.59.1"
+  }
+}
